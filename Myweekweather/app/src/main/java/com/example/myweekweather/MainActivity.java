@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     //Timer timer;
     String weather_data;
     String apiurl ="http://apis.data.go.kr/1360000/MidFcstInfoService/getMidTa?";
-    String ServiceKey = "PXL4ObzaxgbrcVcEe5c8QTzAdF5bD9Y714d3X2Tus6DgtWsj10nEfjP6lUL6Z%2FAPd2pM1XQhuvJx%2BWrEo5%2BLfw%3D%3D";
+    String ServiceKey = "servicekey";
     String numOfRows = "10";
     String page_no = "1";
     String dataType = "XML";
